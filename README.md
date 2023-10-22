@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"/>
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php"/>
+<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"/>
 <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" />
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
